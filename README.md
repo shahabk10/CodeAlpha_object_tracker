@@ -1,4 +1,3 @@
-# CodeAlpha_object_tracker
 # 🎯 Real-time Object Detection & Tracking
 ### CodeAlpha AI Internship — Task 4
 
@@ -14,7 +13,7 @@ A production-ready, real-time object detection and tracking system built with **
 
 ## 🚀 Live Demo
 
-🔗 **[Try it live →]([https://objecttracker-byshahab.streamlit.app/])**
+🔗 **[Try it live →](https://objecttracker-byshahab.streamlit.app/)**
 
 ---
 
